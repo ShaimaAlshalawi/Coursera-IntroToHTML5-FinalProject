@@ -1,5 +1,5 @@
 # IntroductionToHTML5-FinalProject
-Making a webpage that matches the example provided <a href="https://www.intro-webdesign.com/HTML5/HTML5project.png">here</a>. Everything on the page must match, with the exception of the title and any yellow-highlighted text.
+Making a webpage by HTML5 that matches the example provided <a href="https://www.intro-webdesign.com/HTML5/HTML5project.png">here</a>. Everything on the page must match, with the exception of the title and any yellow-highlighted text.
 
 ## Final Project Screenshot
 <img src="_gitAssets/Screenshots.png" width="600">
